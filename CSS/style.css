@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Arizonia&display=swap');
+.index{
+    background-image: linear-gradient(rgba(5, 7, 12,0.60), rgba(5,7,12,0.60)),
+    url(https://s3.amazonaws.com/rtvc-assets-canalinstitucional.tv/s3fs-public/2021-10/Conoce%20todo%20sobre%20la%20historia%20y%20variedades%20del%20caf%C3%A9%20colombiano.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+    overflow-x:hidden;
+    display: flex;
+    flex-direction: column;
+}
+
+img{
+    width: 100px;
+    height: 90px;
+}
+.container-fluid{
+    background: black;
+    position: fixed;
+    height: 100px;
+    top: 0;
+    left: 0;
+}
+nav ul{
+    padding: 0 20px;
+    display: flex;
+    
+}
+nav{
+    position: fixed;
+}
+.t1{
+    font-family: 'Arizonia', cursive;
+    font-size: 100px;
+
+    color: rgb(255, 255, 255);
+}
+.contenedor{
+    height: 90vh;
+    margin: auto;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+footer{
+    background-color: rgb(250, 242, 233);
+    
+}
+
+
+.cards{
+    padding: 110%;
+}
+.tp{
+    padding: 8%;
+    color: white;
+}
+.productos{
+    
+    background-image: linear-gradient(rgba(5, 7, 12,0.60), rgba(5,7,12,0.60)),
+    url(https://phantom-expansion.unidadeditorial.es/dd426c7dbb3fb30aee1968dac15be173/crop/0x0/1920x1082/resize/1200/f/jpg/assets/multimedia/imagenes/2022/04/19/16503758806251.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 170vh;
+    overflow-x:hidden;
+    display: flex;
+    flex-direction: column;
+}
+
